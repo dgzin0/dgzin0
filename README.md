@@ -1,16 +1,14 @@
-### Hi there 
+   ### Boas vindas ao meu perfil🥇
+   Meu Nome é Diego 
+   
+     Estou me desenvolvendo no Alura
+   
+     Utilizo esse espaço para minha 
+   
+     organização e compartilhamento
+   
+     dos meus projetos desenvolvidos
 
-<!--
-**dgzin0/dgzin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     entre em contato comigo diego.lima.Carmo@escola.pr.gov.br
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+     ![](https://media.tenor.com/-OeTzBU0aZkAAAAi/parrot-minecraft.gif)
