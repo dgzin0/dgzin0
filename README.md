@@ -1,14 +1,15 @@
-   ### Boas vindas ao meu perfil🥇
-   Meu Nome é Diego 
+### Boas vindas ao meu perfil🥇
    
-     Estou me desenvolvendo no Alura
-   
-     Utilizo esse espaço para minha 
-   
-     organização e compartilhamento
-   
-     dos meus projetos desenvolvidos
+Meu nome é Diego
 
-     entre em contato comigo diego.lima.Carmo@escola.pr.gov.br
+Estou estudando na Alura
 
-     ![](https://media.tenor.com/-OeTzBU0aZkAAAAi/parrot-minecraft.gif)
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você entrar em contato comigo 📫
+
+diego.lima.carmo@escola.pr.gov.br
+![](https://media.tenor.com/YhQomAKcp94AAAAd/cat-yawning-cat-yawn.gif)
+
